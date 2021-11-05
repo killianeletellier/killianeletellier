@@ -32,3 +32,5 @@ Cette petite présentation faite, je vous laisse découvrir quelques-uns de mes 
 
 ## Quelques statistiques 🖩
 ![](https://github-readme-streak-stats.herokuapp.com?user=KillianeLetellier&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D)
+
+![](https://hit.yhype.me/github/profile?user_id=43679817)
