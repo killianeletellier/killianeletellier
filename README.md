@@ -1,5 +1,7 @@
 # Salut, moi, c'est Killiane 👋
-![](https://img.shields.io/static/v1?label=Discord&message=LProgead%233667&color=5865F2&style=for-the-badge&logo=Discord&labelColor=5865F2&logoColor=white) [![](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/kletellier_)](https://twitter.com/kletellier_)
+![](https://img.shields.io/static/v1?label=Discord&message=LProgead%233667&color=5865F2&style=flat-square&logo=Discord&labelColor=5865F2&logoColor=white) 
+[![](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&style=flat-square&logo=Twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/kletellier_)](https://twitter.com/kletellier_)
+![](https://komarev.com/ghpvc/?username=killianeletellier&style=flat-square&color=grey)
 
 **Développeur autodidacte** 🧑‍💻 et **amoureux des chèvres** 🐐
 
@@ -21,14 +23,14 @@ Cette petite présentation faite, je vous laisse découvrir quelques-uns de mes 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=killianeletellier&repo=organizer&theme=tokyonight)](https://github.com/killianeletellier/organizer)
 
 ## Technologies utilisées 🛠️
-![](https://img.shields.io/static/v1?label=&message=HTML%205&style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=CSS%203&style=for-the-badge&logo=CSS3&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=JavaScript&style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=PHP&style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=Bootstrap&style=for-the-badge&logo=Bootstrap&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=TailwindCSS&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=NodeJS&style=for-the-badge&logo=Node.js&logoColor=white)
-![](https://img.shields.io/static/v1?label=&message=Python&style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=HTML%205&style=flat-square&logo=HTML5&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=CSS%203&style=flat-square&logo=CSS3&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=JavaScript&style=flat-square&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=PHP&style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=TailwindCSS&style=flat-square&logo=Tailwind%20CSS&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=NodeJS&style=flat-square&logo=Node.js&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=Python&style=flat-square&logo=Python&logoColor=white)
 
 ## Quelques statistiques 🖩
 ![](https://github-readme-streak-stats.herokuapp.com?user=KillianeLetellier&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D)
