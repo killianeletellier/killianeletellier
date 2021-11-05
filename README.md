@@ -1,16 +1,34 @@
-### Hi there 👋
+# Salut, moi, c'est Killiane 👋
+![](https://img.shields.io/static/v1?label=Discord&message=LProgead%233667&color=5865F2&style=for-the-badge&logo=Discord&labelColor=5865F2&logoColor=white) [![](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/kletellier_)](https://twitter.com/kletellier_)
 
-<!--
-**killianeletellier/killianeletellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur autodidacte** 🧑‍💻 et **amoureux des chèvres** 🐐
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## À propos de moi 🤗
+Je suis un lycéen français qui s'intéresse au développement depuis que je suis jeune.  
+Je m'intéresse surtout aux technologies du Web et à la cybersécurité. Cela ne m'empêche de me tenir au courant des évolutions dans les autres domaines de l'informatique de façon plus générale.
+
+Je fais souvent des projets "pour le fun" sans but précis comme vous en trouverez sur ce compte GitHub.  
+Comme vous le verrez aussi ici, je réalise ces projets pour apprendre et me faire la main sur de nouvelles technologies. C'est pour cela que la qualité de certains codes pourrait laisser à désirer. Si c'est le cas, n'hésitez pas à ouvrir une issue, je me ferais un plaisir d'apprendre de mes erreurs :D
+
+Je ne mange pas, n'hésitez pas à me contacter sur un des réseaux sociaux évoqués en haut pour discuter !
+
+Cette petite présentation faite, je vous laisse découvrir quelques-uns de mes projets juste ici 👇
+
+## Quelques projets 💻
+[![](https://github-readme-stats.vercel.app/api/pin/?username=killianeletellier&repo=spotigram&theme=tokyonight)](https://github.com/killianeletellier/spotigram) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=killianeletellier&repo=organizer&theme=tokyonight)](https://github.com/killianeletellier/organizer)
+
+## Technologies utilisées 🛠️
+![](https://img.shields.io/static/v1?label=&message=HTML%205&style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=CSS%203&style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=JavaScript&style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=PHP&style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=Bootstrap&style=for-the-badge&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=TailwindCSS&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=NodeJS&style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/static/v1?label=&message=Python&style=for-the-badge&logo=Python&logoColor=white)
+
+## Quelques statistiques 🖩
+![](https://github-readme-streak-stats.herokuapp.com?user=KillianeLetellier&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D)
