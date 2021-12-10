@@ -18,10 +18,6 @@ Je ne mange pas, n'hésitez pas à me contacter sur un des réseaux sociaux évo
 
 Cette petite présentation faite, je vous laisse découvrir quelques-uns de mes projets juste ici 👇
 
-## Quelques projets 💻
-[![](https://github-readme-stats.vercel.app/api/pin/?username=killianeletellier&repo=spotigram&theme=tokyonight)](https://github.com/killianeletellier/spotigram) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=killianeletellier&repo=organizer&theme=tokyonight)](https://github.com/killianeletellier/organizer)
-
 ## Technologies utilisées 🛠️
 ![](https://img.shields.io/static/v1?label=&message=HTML%205&style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/static/v1?label=&message=CSS%203&style=flat-square&logo=CSS3&logoColor=white)
