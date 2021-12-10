@@ -8,13 +8,13 @@
 ***
 
 ## About me 🤗
-I'm a French student who is intersted by development since I was young.
-I'm mainly aware about web developement technology but I also learn a lot about other tech subjects.
+I'm a French student who is interested in development since I was young.
+I'm mainly aware about web development, but I also learn a lot about other tech subjects.
 
 I often create some projects only for the "fun". When I think about an idea, I develop it, and I share it on GitHub.
-I also develop new stuffs to discover and learn new languages or technlogies.
+I also develop new stuffs to discover and learn new languages or technologies.
 
-I never bit anyone so don't hesitate to contact me on my social networks ;)
+I never bit anyone, so don't hesitate to contact me on my social networks ;)
 
 ## Technologies I use 🛠️
 ![](https://img.shields.io/static/v1?label=&message=HTML%205&style=flat-square&logo=HTML5&logoColor=white)
