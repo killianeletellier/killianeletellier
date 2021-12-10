@@ -14,7 +14,7 @@ Je m'intéresse surtout aux technologies du Web et à la cybersécurité. Cela n
 Je fais souvent des projets "pour le fun" sans but précis comme vous en trouverez sur ce compte GitHub.  
 Comme vous le verrez aussi ici, je réalise ces projets pour apprendre et me faire la main sur de nouvelles technologies. C'est pour cela que la qualité de certains codes pourrait laisser à désirer. Si c'est le cas, n'hésitez pas à ouvrir une issue, je me ferais un plaisir d'apprendre de mes erreurs :D
 
-Je ne mange pas, n'hésitez pas à me contacter sur un des réseaux sociaux évoqués en haut pour discuter !
+Je ne mords pas, n'hésitez pas à me contacter sur un des réseaux sociaux évoqués en haut pour discuter !
 
 Cette petite présentation faite, je vous laisse découvrir quelques-uns de mes projets juste ici 👇
 
